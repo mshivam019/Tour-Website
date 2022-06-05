@@ -54,21 +54,21 @@ The core idea of the Project is to build a sample prototype Tourism Website with
 
 ### Home Page
 
-![home]()
+![home](https://github.com/mshivam019/Tour-Website/blob/main/images/home.png)
  
 ### About
 
-![about]()
+![about](https://github.com/mshivam019/Tour-Website/blob/main/images/about.png)
 
 ### QnA
 
-![QnA]()
+![QnA](https://github.com/mshivam019/Tour-Website/blob/main/images/bot.png)
 
 ### Review
 
-![Review]()
+![Review](https://github.com/mshivam019/Tour-Website/blob/main/images/review.png)
 
 ### Explore
 
-![explore]()
+![explore](https://github.com/mshivam019/Tour-Website/blob/main/images/explore.png)
 
