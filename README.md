@@ -46,7 +46,7 @@ The core idea of the Project is to build a sample prototype Tourism Website with
 - Other Azure Technologies :<br>
 >App Service<br>
 
-<b>Project Link : </b>
+<b>Project Link :https://salmon-island-0d033c010.1.azurestaticapps.net/index.html </b>
 
 <a href="https://futurereadytalent.in/"><p align= "center"><img src="/images/FRT.jpeg" width="700" height= "350"></p></a>  
  
