@@ -4,7 +4,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/mshivam019/)
 ![Responsive](https://img.shields.io/badge/Responsive-100%25-red)
 
@@ -46,7 +45,7 @@ The core idea of the Project is to build a sample prototype Tourism Website with
 - Other Azure Technologies :<br>
 >App Service<br>
 
-<b>Project Link :https://salmon-island-0d033c010.1.azurestaticapps.net/index.html </b>
+<b>Project Link :https://mshivam019.github.io/Tour-Website/ </b>
 
 <a href="https://futurereadytalent.in/"><p align= "center"><img src="/images/FRT.jpeg" width="700" height= "350"></p></a>  
  
