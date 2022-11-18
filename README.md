@@ -14,7 +14,9 @@ Web Technologies used: HTML, CSS, JS, Bootstrap
 IDE: VS-Code
 
 <b>Note:</b> Bot is deployed on chatbot.com because Azure for students does not inlcude bot services.
-<br><br>
+
+## Certificate
+<img src="https://github.com/mshivam019/Tour-Website/blob/main/certificate.png">
 
 ### Industry :
 Lifestyle
