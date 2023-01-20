@@ -1,4 +1,11 @@
-# <a href="https://zealous-bay-016717d10.1.azurestaticapps.net">Tourism Website with QnA Bot</a>
+# <a href="https://futurereadytalent.in/courses">Future Ready Talent</a>
+
+
+## Certificate
+<img src="https://github.com/mshivam019/Tour-Website/blob/main/certificate.png">
+
+
+# <a href="https://mshivam019.github.io/Tour-Website/">Tourism Website with QnA Bot</a>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -15,8 +22,6 @@ IDE: VS-Code
 
 <b>Note:</b> Bot is deployed on chatbot.com because Azure for students does not inlcude bot services.
 
-## Certificate
-<img src="https://github.com/mshivam019/Tour-Website/blob/main/certificate.png">
 
 ### Industry :
 Lifestyle
